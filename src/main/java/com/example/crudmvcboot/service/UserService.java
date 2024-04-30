@@ -1,8 +1,6 @@
 package com.example.crudmvcboot.service;
 
 import com.example.crudmvcboot.model.User;
-import org.springframework.transaction.annotation.Transactional;
-
 import java.util.List;
 
 public interface UserService {
